@@ -1,7 +1,7 @@
 # Homework. Module 1. HTML Fundamentals
 
 1. Create a repository named `goit-markup-hw-01`.
-2. Complete the HTML markup for the !["Homework #1"](https://www.figma.com/design/folOvI69KUmwYN47Njpr0O/Web-Studio--Version-5.1-?node-id=0-1&p=f&t=gMWcWNxgacyJYomK-0) page layout without any CSS styling.
+2. Complete the HTML markup for the ["Homework #1"](https://www.figma.com/design/folOvI69KUmwYN47Njpr0O/Web-Studio--Version-5.1-?node-id=0-1&p=f&t=gMWcWNxgacyJYomK-0) page layout without any CSS styling.
 3. Set up GitHub Pages and add a link to the live page in the About section of the GitHub repository.
 4. In the `goit-markup-hw-01` folder, create the project structure as shown in the diagram below.
 
@@ -83,4 +83,5 @@
 
 ## Project Structure
 
-![alt text](image-2.png)
+<img width="351" height="457" alt="image" src="https://github.com/user-attachments/assets/53fd116d-15fb-4ab1-8d49-bb967f05167d" />
+
